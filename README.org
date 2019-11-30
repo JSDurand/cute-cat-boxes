@@ -1,0 +1,4 @@
+* What is this weird thing?
+
+ It is a C++ application with cute cats. One can explore different angles of looking at
+ the cute cat, which is great. :)
